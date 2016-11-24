@@ -1,0 +1,6 @@
+c:\users\radon\documents\visual studio 2015\Projects\techere-silverligth-\techere-silverligth-\obj\Debug\App.g.cs
+c:\users\radon\documents\visual studio 2015\Projects\techere-silverligth-\techere-silverligth-\obj\Debug\MainPage.g.cs
+c:\users\radon\documents\visual studio 2015\Projects\techere-silverligth-\techere-silverligth-\obj\Debug\techere-silverligth-.g.resources
+c:\users\radon\documents\visual studio 2015\Projects\techere-silverligth-\techere-silverligth-\obj\Debug\techere_silverligth_.Resources.AppResources.resources
+c:\users\radon\documents\visual studio 2015\Projects\techere-silverligth-\techere-silverligth-\obj\Debug\techere-silverligth-.csproj.GenerateResource.Cache
+c:\users\radon\documents\visual studio 2015\Projects\techere-silverligth-\techere-silverligth-\obj\Debug\girispage.g.cs
